@@ -1,0 +1,10 @@
+bin/
+obj/
+dist/
+*.user
+.vs/
+TestResults/
+
+# Local only
+plan.md
+screenshots/
